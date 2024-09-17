@@ -1,6 +1,6 @@
 #include <iostream>
-#include "Cube.h"
-#include "Sphere.h"
+#include "Cube.hpp"
+#include "Sphere.hpp"
 
 int main() {
     int dimensions[] = {3, 5, 8};
